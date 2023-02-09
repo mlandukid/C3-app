@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: url(/home/loyiso/C3-app/Front-End/src/images/1.jpg);
+}
